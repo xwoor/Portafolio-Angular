@@ -9,6 +9,7 @@ import { InicioComponent } from './paginas/inicio/inicio.component';
 import { ItemComponent } from './paginas/item/item.component';
 import { ContactoComponent } from './paginas/contacto/contacto.component';
 import { AppRoutingModule } from './/app-routing.module';
+import * as $ from 'jquery';
 
 @NgModule({
   declarations: [
